@@ -1,0 +1,11 @@
+{
+  "name": "view",
+  "version": "1.0.0",
+  "description": "images resource",
+  "main": "https.js",
+  "scripts": {
+    "start": "node src/https.js"
+  },
+  "author": "Lucas Lyu",
+  "license": "ISC"
+}

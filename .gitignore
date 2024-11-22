@@ -1,0 +1,11 @@
+/backend/node_modules
+/view/node_modules
+
+/backend/static/keys
+
+/view/images
+
+/backend/src/configs/jsons/basic.json
+/backend/src/configs/jsons/database.json
+
+

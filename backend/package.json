@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node src/https.js"
+  },
+  "scripts_up": {
+    "json-server": "json-server ./server/info_project.json --port 9999"
+  },
+  "name": "personaldata",
+  "version": "1.0.0",
+  "main": "src/https.js",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.4",
+    "nodemailer": "^6.9.15",
+    "uuid": "^10.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs"
+
+}
